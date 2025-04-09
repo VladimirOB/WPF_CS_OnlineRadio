@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<body>
+	<station Relax="https://pub0301.101.ru:8443/stream/air/mp3/256/200" />
+	<station Retro="https://retro.hostingradio.ru:8014/retro320.mp3" />
+	<station Shanson="https://chanson.hostingradio.ru:8041/chanson256.mp3" />
+	<station L_Radio="https://air.unmixed.ru/lradio256" />
+	<station Comedy="http://pub0302.101.ru:8000/stream/reg/mp3/128/region_comedy_97" />
+	<station Nashe="https://nashe1.hostingradio.ru/nashe-256" />
+	<station Road="https://dorognoe.hostingradio.ru/radio" />
+	<station Tsoi="https://pub0302.101.ru:8443/stream/pro/aac/64/103" />
+	<station Record="http://online-1.gkvr.ru:8000/rr128_com_reg.aac" />
+	<station Retro2="http://online-3.gkvr.ru:8000/muztvradio_90s_128.mp3" />
+	<station Hit="http://online-1.gkvr.ru:8000/hitfm96.aac" />
+	<station Like="https://pub0301.101.ru:8443/stream/air/mp3/256/219" />
+	<station PHONK="http://radio.real-drift.ru:8000/phonk.ogg" />
+	<station Energy="https://pub0301.101.ru:8443/stream/air/mp3/256/99" />
+	<station New="https://icecast-newradio.cdnvideo.ru/newradio3" />
+	<station Auto="https://pub0301.101.ru:8443/stream/air/mp3/256/100" />
+	<station Russian="https://rusradio.hostingradio.ru/rusradio96.aacp" />
+	<station Marusya="https://radio-holding.ru:9433/marusya_default" />
+</body>
